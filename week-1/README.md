@@ -1,11 +1,11 @@
 
 # Part 1.1: Explore New Feeds
 
-- [ ]  **1.1.1 Identify your RSS news feed**
+- [x]  **1.1.1 Identify your RSS news feed**
 
 In short RSS feed is an XML feed where it contains the metadata about a particular webpage or website, like posts posted on different timeline, author of that post, etc. With these data available in RSS feed, it's smart to make use of that as your Datasource. In this step, you are expected to explore a good dataset (a RSS news feed) all by yourself, preferably in any topic from [analyticsvidhya.com](https://analyticsvidhya.com).
 
-- [ ]  **1.1.2 Finalize the RSS news feed link that you want to run analytics on**
+- [x]  **1.1.2 Finalize the RSS news feed link that you want to run analytics on**
 
 Well, not all websites give you readable RSS feeds, even most of the websites don't use RSS feeds. Look for a website that provides a standard format RSS feed. One tip would be, rather than searching in google for ‘websites that have RSS feeds’, it would be better to find the website you want to use and search for its RSS feed. Example: AnalyticalVidya, TowardsDataScience etc.
 
